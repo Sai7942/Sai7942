@@ -72,12 +72,9 @@ Here are some ideas to get you started:
 <h2>🛠 Technology Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,sql,git&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sai7942&theme=radical&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
