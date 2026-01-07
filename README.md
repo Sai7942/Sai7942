@@ -63,20 +63,7 @@ Here are some ideas to get you started:
 - Secure data handling
 - Maintainable codebases
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sai7942&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sai7942&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai7942&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <b>Engineering over hype.</b><br/>
