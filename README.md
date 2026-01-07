@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <h2>🛠 Technology Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,sql,html,css,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git&theme=dark" />
 </p>
 
 <p align="center">
